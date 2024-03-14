@@ -2,15 +2,15 @@
 It is a Soil Analysis and Crop Recommendation based Web App
 The Crop Management System is a machine learning-based project designed to provide predictions and recommendations for farmers. The system uses different algorithms to predict crops, recommend fertilizers, and provide rainfall and yield predictions to help farmers make informed decisions about their crops.
 
-# Installation
+## Installation
 Clone the repository to your local machine.
 Install the required packages using pip.
 Run Apache web server using XAMPP.
-# Features
+## Features
 Crop Prediction
 Crop Recommendation
 Fertilizer Recommendation
-# Technologies Used
+## Technologies Used
 Python
 PHP
 Pandas
@@ -19,11 +19,11 @@ JavaScript
 HTML/CSS
 Bootstrap4
 Scikit-learn
-# Dataset
+## Dataset
 The Crop Management System dataset includes the following features:
 
 
-# Crop Recommendation Dataset
+## Crop Recommendation Dataset
 N
 P
 K
@@ -32,7 +32,7 @@ Humidity
 pH
 Rainfall
 Label
-# Fertilizer Recommendation Dataset
+## Fertilizer Recommendation Dataset
 Temparature
 Humidity
 Soil Moisture
@@ -42,7 +42,7 @@ Nitrogen
 Phosphorous
 Potassium
 Fertilizer Name
-# How to Use
+## How to Use
 Crop Prediction: Input State_Name, District_Name, and Season to get the predicted crop for that location.
 Crop Recommendation: Input N, P, K, Temperature, Humidity, pH, and Rainfall for that location to get recommended crops for that location.
 Fertilizer Recommendation: Input Temperature, Humidity, Soil Moisture, Soil Type, Crop Type, Nitrogen, Phosphorous, and Potassium to get recommended fertilizer for that crop and location.
